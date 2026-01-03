@@ -1,3 +1,13 @@
+<img width="1164" height="734" alt="1000058853" src="https://github.com/user-attachments/assets/e820da1b-1fea-4d4d-882f-e84dcc8bdc42" />
+<img width="1261" height="819" alt="1000058854" src="https://github.com/user-attachments/assets/0b8f19d5-13f1-43a1-8823-6020e43e68ba" />
+<img width="1261" height="819" alt="1000058855" src="https://github.com/user-attachments/assets/9d30af20-2f63-4a37-a834-9719c276898b" />
+<img width="1261" height="819" alt="1000058856" src="https://github.com/user-attachments/assets/85719fac-923e-4c7e-91ea-982b2ec722b3" />
+<img width="1261" height="819" alt="1000058857" src="https://github.com/user-attachments/assets/6701eb38-9cfe-4c0f-9aa4-03733ad73e83" />
+<img width="1261" height="819" alt="1000058858" src="https://github.com/user-attachments/assets/5c5d2b8e-5acd-48ad-ad96-bbfc61bb23c7" />
+<img width="1261" height="819" alt="1000058859" src="https://github.com/user-attachments/assets/74ce4ca8-77dc-49f5-887c-f188e28b9556" />
+<img width="1261" height="819" alt="1000058860" src="https://github.com/user-attachments/assets/fe59c9ef-f315-416d-8783-28ea44b2506c" />
+<img width="1261" height="819" alt="1000058861" src="https://github.com/user-attachments/assets/f34a3682-8078-4710-b800-653b3f9eabbc" />
+<img width="1261" height="819" alt="1000058862" src="https://github.com/user-attachments/assets/55eac1a5-cf16-4188-91b7-2d12ffac3e57" />
 # NASTYA — Multi-Role AI Assistant Architecture
 
 ## Overview
